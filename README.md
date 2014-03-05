@@ -1,5 +1,6 @@
 R-TREES: A DYNAMIC INDEX STRUCTURE FOR SPATIAL SEARCHING
 --------------------------------------------------------
+[![Build Status](https://travis-ci.org/hanchao/RTree.png?branch=master)](https://travis-ci.org/hanchao/RTree)
 
 DESCRIPTION
 
