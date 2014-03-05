@@ -65,3 +65,7 @@ RECENT CHANGE LOG
 - Fixed Iterator GetFirst() - Thanks Mathew Riek
 - Minor updates for MSVC 2005/08 compilers
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/hanchao/rtree/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
